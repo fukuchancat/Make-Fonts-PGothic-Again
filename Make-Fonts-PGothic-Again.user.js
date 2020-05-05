@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name         Make Fonts PGothic Again
-// @namespace    https://fukuchan.mynetgear.com
 // @version      0.1
 // @description  frame要素内のフォントをMS Pゴシックに戻す
 // @author       fukuchan
 // @match        http://gikoheiki.web.fc2.com/*
-// @grant        none
 // ==/UserScript==
 
 // bodyのフォントをMS Pゴシックに戻す
